@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Vignesh-P4/PORTFOLIO_1.git/static/css/main.6cac0b6b.css",
+    "main.js": "/Vignesh-P4/PORTFOLIO_1.git/static/js/main.0863ba92.js",
+    "static/js/453.419a5d54.chunk.js": "/Vignesh-P4/PORTFOLIO_1.git/static/js/453.419a5d54.chunk.js",
+    "index.html": "/Vignesh-P4/PORTFOLIO_1.git/index.html",
+    "main.6cac0b6b.css.map": "/Vignesh-P4/PORTFOLIO_1.git/static/css/main.6cac0b6b.css.map",
+    "main.0863ba92.js.map": "/Vignesh-P4/PORTFOLIO_1.git/static/js/main.0863ba92.js.map",
+    "453.419a5d54.chunk.js.map": "/Vignesh-P4/PORTFOLIO_1.git/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cac0b6b.css",
+    "static/js/main.0863ba92.js"
+  ]
+}
