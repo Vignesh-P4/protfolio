@@ -1,17 +1,19 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import React from 'react'
+import Header from '../../components/Header'
+import SectionTitle from '../../components/SectionTitle.js'
+import Intro from './Intro.js'
+import About from '../About.js'
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
-);
+function Home(){
+    return(
+        <div>
+            <Header />
+            <div className='bg-primary px-20'>
+            <Intro />
+            <About />
+        </div>
+        </div>
+    )
+}
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+export default Home
